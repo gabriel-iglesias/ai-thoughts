@@ -2,5 +2,5 @@
 
 ## Initial goals
 
-*have fun
-*get it together
+* have fun
+* get it together
